@@ -25,3 +25,13 @@ img{
     padding: 15px 15px ;   
 
 }
+
+.biskek {
+    margin-top: 50px;
+    color: red;
+    font-size: 18px;
+    text-align: center;
+    border: 1px red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
